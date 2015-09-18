@@ -71,7 +71,7 @@ public class ExtendedPropertyPlaceholderConfigurer extends PropertyPlaceholderCo
 					StringReader reader = new StringReader(configInfo);
 					PropertyConfigurer.load(reader);
 				}
-			});
+			},props.getProperty("diamondServer"),props.getProperty("diamondPort"));
 			
 			try {
 				String configInfo = manager.getAvailableConfigureInfomation(30000);
