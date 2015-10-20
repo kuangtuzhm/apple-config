@@ -8,7 +8,6 @@
 	<packaging>pom</packaging>
 
 	<name>apple-config</name>
-	<url>http://mvnrepo.appleframework.com</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -131,16 +130,6 @@
 			<activation>
 				<activeByDefault>true</activeByDefault>
 			</activation>
-			<distributionManagement>
-				<repository>
-					<id>internal.repo.release</id>
-					<url>http://mvnrepo.appleframework.com/nexus/content/repositories/releases/</url>
-				</repository>
-				<snapshotRepository>
-					<id>internal.repo.snapshot</id>
-					<url>http://mvnrepo.appleframework.com/nexus/content/repositories/snapshots/</url>
-				</snapshotRepository>
-			</distributionManagement>
 		</profile>
 	</profiles>
 	

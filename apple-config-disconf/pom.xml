@@ -10,7 +10,6 @@
 	</parent>
 	<artifactId>apple-config-disconf</artifactId>
 	<name>apple-config-disconf</name>
-	<url>http://maven.appleframework.com</url>
 
 	<dependencies>
 

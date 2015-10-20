@@ -10,7 +10,6 @@
 	</parent>
 	<artifactId>apple-config-core</artifactId>
 	<name>apple-config-core</name>
-	<url>http://mvnrepo.appleframework.com</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
