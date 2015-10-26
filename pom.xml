@@ -15,7 +15,7 @@
 		<java.version>1.6</java.version>
 		<log4j.version>1.2.16</log4j.version>
 		<diamond.client.version>2.1.1.RELEASE</diamond.client.version>
-		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.version>4.2.1.RELEASE</spring.version>
 		<disconf.version>2.6.24</disconf.version>
 	</properties>
 
