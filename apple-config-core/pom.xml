@@ -6,7 +6,7 @@
 	<parent>
 		<artifactId>apple-config</artifactId>
 		<groupId>com.appleframework.config</groupId>
-		<version>0.1.2.RELEASE.zhm</version>
+		<version>1.0</version>
 	</parent>
 	<artifactId>apple-config-core</artifactId>
 	<name>apple-config-core</name>
